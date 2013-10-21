@@ -1,4 +1,4 @@
-# AngularJS TodoMVC Example - Kinvey BackEnd
+## AngularJS TodoMVC Example - Node.JS BackEnd
 
 > HTML is great for declaring static documents, but it falters when we try to use it for declaring dynamic views in web-applications. AngularJS lets you extend HTML vocabulary for your application. The resulting environment is extraordinarily expressive, readable, and quick to develop.
 
@@ -36,6 +36,6 @@ Get help from other AngularJS users:
 _If you have other helpful links to share, or find any of the links above no longer work, please [let us know](https://github.com/tastejs/todomvc/issues)._
 
 
-[![Build Status](https://travis-ci.org/ferronrsmith/angular-todo-kinvey.png)](https://travis-ci.org/ferronrsmith/angular-todo-kinvey)
+[![Build Status](https://travis-ci.org/ferronrsmith/angular-todo-node.png?branch=master)](https://travis-ci.org/ferronrsmith/angular-todo-node)
 
-[![Coverage Status](https://coveralls.io/repos/ferronrsmith/angular-todo-kinvey/badge.png)](https://coveralls.io/r/ferronrsmith/angular-todo-kinvey)
+[![Coverage Status](https://coveralls.io/repos/ferronrsmith/angular-todo-node/badge.png)](https://coveralls.io/r/ferronrsmith/angular-todo-node)
